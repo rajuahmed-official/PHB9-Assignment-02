@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+}
+.nav-ber{
+    height: 100px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 100px
+    box-sizing: border-box;
+}
+.travel-logo{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+span{
+    color: rgb(255, 136, 0);
+}
+.nav-ber ul{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.nav-ber ul li {
+    font-size: 20px;
+    margin-left: 30px;
+}
+.nav-ber ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 6px 15px;
+}
+.banner{
+    margin: 0px;
+background-image: url('../Images/Group\ 13\ \(1\)\ \(1\).png');
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+height: 600px;
+width: 100%;
+
+}
